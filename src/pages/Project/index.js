@@ -47,7 +47,7 @@ const Projects = [
   },
   {
     "image": "https://iotech.mn/img/portfolio/5.jpg",
-    "title" : "eMonow",
+    "title" : "eMonos",
     "description" : "Эмийг эмчийн бичсэн жорын дагуу хэрэглэцгээе.",
     "hashtag" : "#bilguunerkh",
   },
