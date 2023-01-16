@@ -13,6 +13,12 @@
 
   border-radius: 15px;
 }
+.Educa {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
 .EduImg {
   width: 260px;
   height: 200px;
@@ -26,7 +32,6 @@
   border-radius: 10px;
   border: 1px solid rgb(255, 255, 255);
   margin: 20px;
-  margin-left: 150px;
   width: 80%;
 }
 .thisEdu:hover {
