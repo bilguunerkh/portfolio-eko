@@ -74,6 +74,7 @@ const Project = () => {
   return (
     <div className={styles.Container}>
       <div className={styles.ListProject}>
+        <h1 className={styles.Made}>Projects Made</h1>
         <MapProjects/>
       </div>
     </div>

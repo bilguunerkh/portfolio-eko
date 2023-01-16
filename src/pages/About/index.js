@@ -112,7 +112,7 @@ const particlesLoaded = useCallback(async container => {
       <div className={styles.HeroItem}>
         <div className={styles.ImgContainer}>
           <img
-            src="https://scontent.fuln1-2.fna.fbcdn.net/v/t39.30808-6/319187800_2222374351269988_2616289100744637824_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=zxqRpiwmynMAX_ZiyNX&_nc_ht=scontent.fuln1-2.fna&oh=00_AfAzAZ-K-HaMVivMOlVfAdbGJM6XMeGX8ILVn98r3TV30Q&oe=63C3BA6F"
+            src="/images/devo.png"
             alt=""
           />
         </div>
