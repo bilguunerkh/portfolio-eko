@@ -18,7 +18,7 @@ const particlesLoaded = useCallback(async container => {
     await console.log(container);
 }, []);
   return (
-    <div className={styles.Container}>
+    <div id="home" className={styles.Container}>
        <Particles id="tsparticles" options={{
      
                 fpsLimit: 120,
@@ -94,7 +94,7 @@ const particlesLoaded = useCallback(async container => {
             I am the{" "}
             <span style={{ color: "#007FFF" }}>
               <Typewriter
-                words={["React Developer", "UI Designer", "Software Engineer"]}
+                words={["React Developer", "UI Designer", "Software Engineer","Blue Helmet CEO","Khulan's Husband"]}
                 loop={false}
               />
             </span>

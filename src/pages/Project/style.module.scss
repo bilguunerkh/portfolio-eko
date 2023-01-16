@@ -1,0 +1,23 @@
+.Container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+.Pro {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.thisProject {
+  border: 5px solid rgb(255, 204, 0);
+}
+.ProImg {
+  width: 350px;
+  height: 300px;
+}
