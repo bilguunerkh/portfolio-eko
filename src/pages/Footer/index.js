@@ -1,8 +1,4 @@
 import React from 'react'
-import "./Skills.css";
-import { SocialIcon } from 'react-social-icons';
-import { Typewriter } from 'react-simple-typewriter';
-import { motion } from "framer-motion"
 
 const Skills = () => {
   return (

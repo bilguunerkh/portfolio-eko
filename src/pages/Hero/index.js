@@ -36,7 +36,8 @@ const MapEducations = () => {
           </div>
          
           <div className={styles.hha}>
-          <h3 style={{color: "white", fontSize: 35}}>{item.title}</h3>
+          {/* <h3 style={{color: "white", fontSize: 35}}>{item.title}</h3> */}
+          <a className={styles.htag} href="/pinecone/">{item.title}</a>
           <p style={{color: "#F2EDD7"}}>{item.description}</p>
           <h4 style={{color: "#1E6F5C"}}>{item.date}</h4>
           </div>
