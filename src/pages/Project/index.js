@@ -59,7 +59,20 @@ const Projects = [
     "hashtag" : "#bilguunerkh",
     "lnk": "OPEN",
   },
-
+  {
+    "image": "https://iotech.mn/img/portfolio/2.jpg",
+    "title" : "eMonos",
+    "description" : "Эмийг эмчийн бичсэн жорын дагуу хэрэглэцгээе.",
+    "hashtag" : "#bilguunerkh",
+    "lnk": "OPEN",
+  },
+  {
+    "image": "https://iotech.mn/img/portfolio/5.jpg",
+    "title" : "eMonos",
+    "description" : "Эмийг эмчийн бичсэн жорын дагуу хэрэглэцгээе.",
+    "hashtag" : "#bilguunerkh",
+    "lnk": "OPEN",
+  },
 
 
 

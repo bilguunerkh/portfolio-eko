@@ -6,7 +6,8 @@ import styles from "./style.module.scss";
 
 function CollapsibleExample() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="light"  className={styles.Navbar}  sticky="top" >
+
+          <Navbar collapseOnSelect expand="lg" bg="light"  className={styles.Navbar}  sticky="top" >
         <Navbar.Brand href="#home">MOO-PORTFOLIO</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
@@ -21,6 +22,8 @@ function CollapsibleExample() {
         </Navbar.Collapse>
 
     </Navbar>
+
+
   );
 }
 
